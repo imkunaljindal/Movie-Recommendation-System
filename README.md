@@ -1,1 +1,3 @@
-# Movie-Recommendation-System
+# Movie-Recommendation-System 
+A simple Movie Recommendation System made using Pandas, Matplotlib libraries of Python \n
+The Dataset used is the popular 'Movielens 100k Dataset'
